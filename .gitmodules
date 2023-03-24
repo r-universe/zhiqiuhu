@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "distfree.cr"]
+	path = distfree.cr
+	url = https://github.com/cran/distfree.cr
+	shallow = true
+	registered = true
+[submodule "PAS"]
+	path = PAS
+	url = https://github.com/cran/PAS
+	shallow = true
+	registered = true
