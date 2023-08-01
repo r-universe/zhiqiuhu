@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "distfree.cr"]
-	path = distfree.cr
-	url = https://github.com/cran/distfree.cr
 [submodule "PAS"]
 	path = PAS
 	url = https://github.com/cran/PAS
+[submodule "distfree.cr"]
+	path = distfree.cr
+	url = https://github.com/cran/distfree.cr
